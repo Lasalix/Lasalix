@@ -1,11 +1,19 @@
 ## Hi there 👋
-
+🔭 Atualmente estou trabalhando em java e scratch
+- 🌱 Atualmente estou aprendendo sobre programaçao, projetos java e scratch
+- 👯 Procuro colaborar em respeito na aula
+- 🤔 Estou procurando ajuda com pessoas que entendem sobre o programa
+- 💬 Pergunte-me sobre coisas basicas
+- 📫 Como entrar em contato comigo: ...
+- 😄 Pronomes:sou legal e muito gente boa
+- ⚡ Curiosidade amo jogar no tigrinho
+-->
 <!--
 **Lasalix/Lasalix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

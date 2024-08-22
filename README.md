@@ -7,8 +7,7 @@
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes:sou legal e muito gente boa
 - ⚡ Curiosidade amo jogar no tigrinho
--->
-![](https://tenor.com/pt-BR/view/tony-the-tiger-dancing-weekend-vibe-gif-8873636418987375243)
+-->![](https://tenor.com/pt-BR/view/freespins-gif-26506363)
 <!--
 **Lasalix/Lasalix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
